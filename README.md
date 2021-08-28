@@ -1,2 +1,0 @@
-# Geo
-A geo work 
